@@ -1,10 +1,10 @@
-## Hey 👋, I'm Aaron!
+## Hey :wave:, I'm Aaron!
 <a href='https://www.linkedin.com/in/aaron-rogers-37a668174/'><img alt="linkedin" src="https://user-images.githubusercontent.com/87159469/173919108-b4ec3a66-e502-4ba1-94d8-a2ac54740be4.svg" height='18px'/></a>
 
 I am a versatilist who enjoys the process of adapting to the demands of diverse projects. I love exploring new tech :computer: and leveraging them to build cool stuff :hammer_and_wrench:. 
 <br/>
   
-### 🧐 More About Me:
+### :monocle_face: More About Me:
 
 - :handshake: &nbsp; I work at [Range Digital Marketing](https://www.range-digital.com/) where we field the digital solutions that make e-commerce businesses thrive.
 - :artificial_satellite: I also serve part-time as an officer in the Air Force Reserves where I support space operations.
@@ -18,24 +18,28 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" align="left" alt="GraphQL" height='42px'/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" alt="MongoDB" height='42px'/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a>
+<a href="https://www.apple.com/ios/" target="_blank"><img align="left" alt="iOS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"></a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Swift" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></a>
 
 <br>
 <br>
 
-### 📊 Github Stats
+### :bar_chart: Github Stats
 <a href='https://github.com/aaron-r-rogers/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/languages.svg)
  
-### :trophy: I like to "warm up" with [Codewars](https://www.codewars.com/users/aaron-r-rogers) sometimes.
+### :trophy: [Codewars](https://www.codewars.com/users/aaron-r-rogers)
 <img alt="Codewars" src="https://www.codewars.com/users/aaron-r-rogers/badges/large"/>
 
 </a>
