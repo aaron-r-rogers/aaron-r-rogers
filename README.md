@@ -15,7 +15,6 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 - :golfing_man: &nbsp; I spend most of my free time with my family, and I love to get out and walk 18.
 
 <br>
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
@@ -28,6 +27,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Swift" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></a>
 
+<br>
 <br>
 <br>
 
