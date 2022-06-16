@@ -1,4 +1,6 @@
-## Hey :wave:, I'm Aaron!  <a href='https://www.linkedin.com/in/aaron-rogers-37a668174/'><img alt="linkedin" src="https://user-images.githubusercontent.com/87159469/173919108-b4ec3a66-e502-4ba1-94d8-a2ac54740be4.svg" height='18px'/></a>
+## Hey :wave:, I'm Aaron!
+
+<a href='https://www.linkedin.com/in/aaron-rogers-37a668174/'><img alt="linkedin" src="https://user-images.githubusercontent.com/87159469/173919108-b4ec3a66-e502-4ba1-94d8-a2ac54740be4.svg" height='18px'/></a>
 
 I am a versatilist who enjoys the process of adapting to the demands of diverse projects. I love exploring new tech :computer: and leveraging them to build cool stuff :hammer_and_wrench:. 
 <br/>
