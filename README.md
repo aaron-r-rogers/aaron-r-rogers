@@ -31,13 +31,13 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <br>
 <br>
 
-### :bar_chart: Github Stats
+### :bar_chart: Github Stats:
 <a href='https://github.com/aaron-r-rogers/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/languages.svg)
  
-### :trophy: Codewars
+### :trophy: Codewars:
 [<img alt="Codewars" src="https://www.codewars.com/users/aaron-r-rogers/badges/large"/>](https://www.codewars.com/users/aaron-r-rogers)
 
 </a>
