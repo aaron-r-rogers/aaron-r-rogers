@@ -37,7 +37,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 ![Stats Overview](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/aaron-r-rogers/github-stats-transparent/output/generated/languages.svg)
  
-### :trophy: [Codewars](https://www.codewars.com/users/aaron-r-rogers)
-<img alt="Codewars" src="https://www.codewars.com/users/aaron-r-rogers/badges/large"/>
+### :trophy: Codewars
+[<img alt="Codewars" src="https://www.codewars.com/users/aaron-r-rogers/badges/large"/>](https://www.codewars.com/users/aaron-r-rogers)
 
 </a>
