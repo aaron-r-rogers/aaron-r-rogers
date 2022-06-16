@@ -25,9 +25,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" align="left" alt="GraphQL" height='42px'/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" alt="MongoDB" height='42px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a>
-<a href="https://www.apple.com/ios/" target="_blank"><img align="left" alt="iOS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"></a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Swift" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></a>
 
 <br>
