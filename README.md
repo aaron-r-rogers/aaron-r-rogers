@@ -10,9 +10,9 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 - :handshake: &nbsp; I work at [Range Digital Marketing](https://www.range-digital.com/) where we field the digital solutions that make e-commerce businesses thrive.
 - :artificial_satellite: &nbsp; I also serve part-time as an officer in the Air Force Reserves where I support space operations.
 - :seedling: &nbsp; I’m currently enjoying learning the ins and outs of [Shopify development](https://shopify.dev/) to expand my e-commerce effectiveness.
-- :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories)
-- :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/)
-- :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AfowfExKgg9kSTNvh5rpLc56XTqp5L6s/view?usp=sharing)
+- :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories).
+- :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/).
+- :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZigKifrVwAzmNi9dnB1hjg458XZL-g51/view?usp=share_link).
 - :golfing_man: &nbsp; I spend most of my free time with my family, and I love to get out and walk 18.
 
 <br>
