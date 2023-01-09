@@ -25,7 +25,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" align="left" alt="GraphQL" height='42px'/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" alt="MongoDB" height='42px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
-<a href="https://shopify.dev/" target="_blank"><img align="left" alt="Shopify" height ="42px" src="https://commons.wikimedia.org/wiki/File:Shopify_logo_2018.svg#/media/File:Shopify_logo_2018.svg"></a>
+<a href="https://shopify.dev/" target="_blank"><img align="left" alt="Shopify" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/1200px-Shopify_logo_2018.svg.png"></a>
 
 <br>
 <br>
