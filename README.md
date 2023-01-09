@@ -9,8 +9,8 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 
 - :handshake: &nbsp; I work at [Range Digital Marketing](https://www.range-digital.com/) where we field the digital solutions that make e-commerce businesses thrive.
 - :artificial_satellite: &nbsp; I also serve part-time as an officer in the Air Force Reserves where I support space operations.
-- :seedling: &nbsp; I’m currently learning mobile development (Kotlin and Swift) to leverage the capabilities of [Branch](https://www.branch.io/).
-- :man_technologist: &nbsp; Most of my projects are available on [Github](https://github.com/aaron-r-rogers?tab=repositories)
+- :seedling: &nbsp; I’m currently enjoying learning the ins and outs of [Shopify development](https://shopify.dev/) to expand my e-commerce effectiveness.
+- :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories)
 - :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/)
 - :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AfowfExKgg9kSTNvh5rpLc56XTqp5L6s/view?usp=sharing)
 - :golfing_man: &nbsp; I spend most of my free time with my family, and I love to get out and walk 18.
@@ -25,8 +25,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" align="left" alt="GraphQL" height='42px'/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" alt="MongoDB" height='42px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Swift" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></a>
+<a href="https://shopify.dev/" target="_blank"><img align="left" alt="Shopify" height ="42px" src="https://commons.wikimedia.org/wiki/File:Shopify_logo_2018.svg#/media/File:Shopify_logo_2018.svg"></a>
 
 <br>
 <br>
