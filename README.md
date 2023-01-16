@@ -12,7 +12,7 @@ I am a versatilist who enjoys the process of adapting to the demands of diverse 
 - :seedling: &nbsp; I’m currently enjoying learning the ins and outs of [Shopify development](https://shopify.dev/) to expand my e-commerce effectiveness.
 - :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories).
 - :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/).
-- :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZigKifrVwAzmNi9dnB1hjg458XZL-g51/view?usp=share_link).
+- :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZigKifrVwAzmNi9dnB1hjg458XZL-g51/view?usp=share_link) for more about my background.
 - :golfing_man: &nbsp; I spend most of my free time with my family, and I love to get out and walk 18.
 
 <br>
