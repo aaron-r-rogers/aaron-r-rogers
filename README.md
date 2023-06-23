@@ -2,14 +2,14 @@
 
 <a href='https://www.linkedin.com/in/aaron-rogers-37a668174/'><img alt="linkedin" src="https://user-images.githubusercontent.com/87159469/173919108-b4ec3a66-e502-4ba1-94d8-a2ac54740be4.svg" height='18px'/></a>
 
-I am a versatilist who enjoys the process of adapting to the demands of diverse projects. I love exploring new tech :computer: and leveraging them to build cool stuff :hammer_and_wrench:. 
+I am a versatilist who enjoys the process of adapting to the demands of diverse projects. I love exploring new tech :computer: and leveraging them to solve problems :hammer_and_wrench:. 
 <br/>
   
 ### :monocle_face: More About Me:
 
 - :handshake: &nbsp; I work at [Range Digital Marketing](https://www.range-digital.com/) where we field the digital solutions that make e-commerce businesses thrive.
 - :artificial_satellite: &nbsp; I also serve part-time as an officer in the Air Force Reserves where I support space operations.
-- :seedling: &nbsp; I’m currently enjoying learning the ins and outs of [Shopify development](https://shopify.dev/) to expand my e-commerce effectiveness.
+- :seedling: &nbsp; I’m currently enjoying learning the ins and outs of [Shopify development](https://shopify.dev/) to expand my e-commerce prowess.
 - :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories).
 - :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/).
 - :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZigKifrVwAzmNi9dnB1hjg458XZL-g51/view?usp=share_link) for more about my background.
