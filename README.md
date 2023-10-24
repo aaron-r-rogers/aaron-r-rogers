@@ -2,7 +2,7 @@
 
 <a href='https://www.linkedin.com/in/aaron-rogers-37a668174/'><img alt="linkedin" src="https://user-images.githubusercontent.com/87159469/173919108-b4ec3a66-e502-4ba1-94d8-a2ac54740be4.svg" height='18px'/></a>
 
-I am a versatilist who enjoys the process of adapting to the demands of diverse projects. I love exploring new tech :computer: and leveraging them to solve problems :hammer_and_wrench:. 
+As a versatilist, I thrive on adapting to the diverse demands of various projects, relishing the opportunity to explore new technologies :computer: and employ them to address real-world challenges :hammer_and_wrench:.
 <br/>
   
 ### :monocle_face: More About Me:
