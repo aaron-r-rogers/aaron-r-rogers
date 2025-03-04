@@ -9,7 +9,7 @@ As a versatilist, I thrive on adapting to the diverse demands of various project
 
 - :handshake: &nbsp; I work at [Range Digital Marketing](https://www.range-digital.com/) where we field digital solutions that make businesses grow.
 - :artificial_satellite: &nbsp; I also serve part-time as an officer in the Air Force Reserves where I replicate adversary space threats as an aggressor.
-- :seedling: &nbsp; I’m currently enjoying learning [Deno]([https://shopify.dev/](https://deno.com/)) for a new app we're building, and I'm thoroughly impressed.
+- :seedling: &nbsp; I’m currently enjoying learning [Deno](https://deno.com/) for a new app we're building, and I'm thoroughly impressed.
 - :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories).
 - :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/).
 - :memo: &nbsp; Checkout my [resume](https://docs.google.com/document/d/1m2viDu0etkdeK-mtIujVCy7DMgEDkjQA4Z22JhzIs6w/edit?usp=sharing) for more about my background.
