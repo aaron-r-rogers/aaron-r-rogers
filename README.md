@@ -12,7 +12,7 @@ As a versatilist, I thrive on adapting to the diverse demands of various project
 - :seedling: &nbsp; I’m currently enjoying learning [Deno](https://deno.com/) for a new app we're building, and I'm thoroughly impressed.
 - :man_technologist: &nbsp; Most of my projects are available here on [Github](https://github.com/aaron-r-rogers?tab=repositories).
 - :link: &nbsp; Feel free connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-rogers-37a668174/).
-- :memo: &nbsp; Checkout my [resume](https://docs.google.com/document/d/1m2viDu0etkdeK-mtIujVCy7DMgEDkjQA4Z22JhzIs6w/edit?usp=sharing) for more about my background.
+- :memo: &nbsp; Checkout my [resume](https://drive.google.com/file/d/1xKRwcfjS73CYHqFZHdLYKYpL__uKN6bJ/view?usp=sharing) for more about my background.
 - :golfing_man: &nbsp; I spend most of my free time with my family. If I'm not with them, I'm probably walking 18.
 
 <br>
